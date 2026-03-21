@@ -1,168 +1,121 @@
 {
   "version": 1,
-  "base_track": "Zenzenzense - movie ver.",
+  "base_track": "前前前世 (movie ver.)",
   "base_artist": "RADWIMPS",
-  "createdAt": "2025-12-17T02:55:29.722941Z",
+  "createdAt": "2026-03-21T17:19:35.067608Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Zenzenzense - Original Version",
-      "artist": "RADWIMPS",
+      "title": "前前前世",
+      "artist": "AUN J Classic Orchestra",
       "has_synced": false,
-      "path": "select/01_Zenzenzense_-_Original_Version_RADWIMPS.txt"
+      "path": "select/01_前前前世_AUN_J_Classic_Orchestra.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Zenzenzense - movie ver",
-      "artist": "RADWIMPS",
+      "title": "前前前世",
+      "artist": "Aruvn",
       "has_synced": true,
-      "path": "select/02_Zenzenzense_-_movie_ver_RADWIMPS.lrc"
+      "path": "select/02_前前前世_Aruvn.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Zenzenzense - movie ver.",
+      "title": "前前前世 (movie ver.)",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/03_Zenzenzense_-_movie_ver._RADWIMPS.lrc"
+      "path": "select/03_前前前世_(movie_ver.)_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Zenzenzense (Movie Version)",
-      "artist": "Radwimps",
+      "title": "Zenzenzense / 前前前世(movie ver.)",
+      "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/04_Zenzenzense_(Movie_Version)_Radwimps.lrc"
+      "path": "select/04_Zenzenzense___前前前世(movie_ver.)_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Zenzenzense - movie ver.",
+      "title": "Zenzenzense (前前前世 (movie ver.), \"Many Previous Existences\")",
       "artist": "Radwimps",
       "has_synced": true,
-      "path": "select/05_Zenzenzense_-_movie_ver._Radwimps.lrc"
+      "path": "select/05_Zenzenzense_(前前前世_(movie_ver.),__Many_Previous_Existences_)_Radwimps.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Zenzenzense (movie ver.)",
+      "title": "前前前世 - movie ver.",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/06_Zenzenzense_(movie_ver.)_RADWIMPS.lrc"
+      "path": "select/06_前前前世_-_movie_ver._RADWIMPS.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Zenzenzense [Noda] (movie ver.)",
+      "title": "前前前世(movie ver.)",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/07_Zenzenzense_[Noda]_(movie_ver.)_RADWIMPS.lrc"
+      "path": "select/07_前前前世(movie_ver.)_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Zenzenzense - movie ver.",
+      "title": "Zenzenzense (前前前世 (movie ver.), Many Previous Existences)",
       "artist": "RADWIMPS",
       "has_synced": true,
-      "path": "select/08_Zenzenzense_-_movie_ver._RADWIMPS.lrc"
+      "path": "select/08_Zenzenzense_(前前前世_(movie_ver.),_Many_Previous_Existences)_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Zenzenzense (English ver.)",
-      "artist": "RADWIMPS",
-      "has_synced": false,
-      "path": "select/09_Zenzenzense_(English_ver.)_RADWIMPS.txt"
+      "title": "前前前世",
+      "artist": "MM5tar",
+      "has_synced": true,
+      "path": "select/09_前前前世_MM5tar.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Zenzenzense (movie ver.)",
+      "title": "Zenzenzense (前前前世 (movie ver.))",
       "artist": "RADWIMPS",
-      "has_synced": false,
-      "path": "select/10_Zenzenzense_(movie_ver.)_RADWIMPS.txt"
+      "has_synced": true,
+      "path": "select/10_Zenzenzense_(前前前世_(movie_ver.))_RADWIMPS.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Zenzenzense - English Version",
-      "artist": "RADWIMPS",
+      "title": "前前前世",
+      "artist": "Vaundy",
       "has_synced": true,
-      "path": "select/11_Zenzenzense_-_English_Version_RADWIMPS.lrc"
+      "path": "select/11_前前前世_Vaundy.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Zenzenzense (original ver.)",
-      "artist": "Radwimps",
+      "title": "前前前世（Slow Ver",
+      "artist": "泠鸢yousa",
       "has_synced": true,
-      "path": "select/12_Zenzenzense_(original_ver.)_Radwimps.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "zenzenzense",
-      "artist": "radwimps",
-      "has_synced": true,
-      "path": "select/13_zenzenzense_radwimps.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Zenzenzense - Movie Ver.",
-      "artist": "RADWIMPS",
-      "has_synced": true,
-      "path": "select/14_Zenzenzense_-_Movie_Ver._RADWIMPS.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Zenzenzense (English Version)",
-      "artist": "RADWIMPS",
-      "has_synced": false,
-      "path": "select/15_Zenzenzense_(English_Version)_RADWIMPS.txt"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "Zenzenzense (movie ver.)",
-      "artist": "RADWIMPS",
-      "has_synced": true,
-      "path": "select/16_Zenzenzense_(movie_ver.)_RADWIMPS.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "Zenzenzense - Movie Ver.",
-      "artist": "RADWIMPS",
-      "has_synced": true,
-      "path": "select/17_Zenzenzense_-_Movie_Ver._RADWIMPS.lrc"
-    },
-    {
-      "id": "lrclib_18",
-      "source": "lrclib",
-      "title": "Zenzenzense (movie ver.)",
-      "artist": "RADWIMPS",
-      "has_synced": true,
-      "path": "select/18_Zenzenzense_(movie_ver.)_RADWIMPS.lrc"
-    },
-    {
-      "id": "lrclib_19",
-      "source": "lrclib",
-      "title": "Zenzenzense (movie ver.) (Your Name. Theme Song)",
-      "artist": "Yuta Murakami",
-      "has_synced": false,
-      "path": "select/19_Zenzenzense_(movie_ver.)_(Your_Name._Theme_Song)_Yuta_Murakami.txt"
+      "path": "select/12_前前前世(Slow_Ver_泠鸢yousa.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Zenzenzense (Movie Version)",
+      "title": "前前前世",
       "artist": "RADWIMPS",
       "has_synced": false,
-      "path": "select/pl_01_Zenzenzense_(Movie_Version)_RADWIMPS.txt"
+      "path": "select/pl_01_前前前世_RADWIMPS.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "前前前世 (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/localdb_01_前前前世_(movie_ver.)_RADWIMPS.lrc",
+      "repo_name": "PDSkFeMVNFs"
     }
   ]
 }
