@@ -1,4 +1,4 @@
-# RADWIMPS – Zenzenzense - movie ver.
+# RADWIMPS – 前前前世 (movie ver.)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
